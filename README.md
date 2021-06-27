@@ -1,2 +1,0 @@
-# lifeisforu.github.io
-blog
