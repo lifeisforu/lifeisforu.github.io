@@ -6,6 +6,3 @@ url: https://lifeisforu.github.io
 
 aux_links:
   Template Repository: https://github.com/lifeisforu/lifeisforu.github.io
-
-plugins:
-  - jekyll-default-layout
