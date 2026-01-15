@@ -1,0 +1,8 @@
+title: Just such a blog(그냥 그런 블로그)
+description: Lifeisforu's blog on github.
+theme: just-the-docs
+
+url: https://lifeisforu.github.io
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
